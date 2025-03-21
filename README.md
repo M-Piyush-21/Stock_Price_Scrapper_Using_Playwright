@@ -1,4 +1,4 @@
-**Playwright Web Scraper Documentation**
+**Srock Price Scrapper Using Playwright**
 
 ## Introduction
 This documentation provides an overview of a web scraper tool built using Playwright. Playwright is a powerful automation library that enables browser interaction for web scraping, testing, and automation. This tool is designed to extract stock prices from Google Finance and take screenshots for verification.
